@@ -1,16 +1,16 @@
 <div align="center">
-<img src="https://i.ibb.co/wM89bfg/Adnan-saim.png" align="center" style="width: 100%" />
+<img src="./me.png" align="center" style="width: 100%" />
 </div>
 
 ### <div align="center">I'm a Front end developer with a good understanding in backend. </div>
 
 - ✨ I love to learn new things and collaborate with other developers
 
-- 🌱 I’m currently learning TypeScript
+- 💬 Ask me about anything related to Javascript/Typescript or React/Express
 
-- ❓ Ask me about anything related to Javascript and related technologies
+- 👨‍💻 Get to know me more in [my website](https://www.shihabhaque.netlify.app)
 
-- 📫 How to reach me - adnansaim15@yahoo.com
+- I’m currently working on a cool TS project!
 
 <br/>
 
@@ -21,7 +21,6 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
