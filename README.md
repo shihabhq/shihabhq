@@ -50,6 +50,6 @@
 
 ## Github Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shihabhq)](https://git.io/streak-stats)
+[![Shihab's GitHub stats](https://github-readme-stats.vercel.app/api?username=shihabhq)](https://github.com/shihabhq/github-readme-stats)
 
 <br>
