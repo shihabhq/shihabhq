@@ -8,9 +8,9 @@
 
 - 💬 Ask me about anything related to Javascript/Typescript or React/Express
 
-- 👨‍💻 Get to know me more in [my website](https://www.shihabhaque.netlify.app)
+- 🔗 Get to know me more in [my website](https://www.shihabhaque.netlify.app)
 
-- I’m currently working on a cool TS project!
+- 👨‍💻 I’m currently working on a cool TS project!
 
 <br/>
 
