@@ -50,7 +50,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihabhq&layout=compact" alt="Top Languages" height="150px">
 </div>
 
-<div align='center' style=" margin-top: 10px;">
+<div align='center'>
  <img src="https://streak-stats.demolab.com?user=shihabhq" alt="GitHub Streak" />
 </div>
 
