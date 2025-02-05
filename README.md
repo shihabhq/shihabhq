@@ -45,12 +45,12 @@
 
 ## 📊 GitHub Stats  
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<div align='center' style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=shihabhq&show_icons=true" alt="GitHub Stats" height="150px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihabhq&layout=compact" alt="Top Languages" height="150px">
 </div>
 
-<div style="display: flex; justify-content: center; margin-top: 10px;">
+<div align='center' style="display: flex; justify-content: center; margin-top: 10px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shihabhq" alt="GitHub Streak" height="150px">
 </div>
 
