@@ -4,7 +4,7 @@
 
 ## About Me
 
-#### <div>I'm a Frontend developer with a good understanding in backend. I love to build user-friendly, scalable web applications using modern web technologies and I enjoy turning ideas into functional apps. I am constantly learning and My goal is to contribute to impactful projects that create value and solve complex problems. </div>
+#### <div>I'm a Frontend developer with a solid understanding in backend. I love to build user-friendly, scalable web applications using modern web technologies and I enjoy turning ideas into functional apps. I am constantly learning and My goal is to contribute to impactful projects that create value and solve complex problems. </div>
 
 - ✨ I love to learn new things and collaborate with other developers
 
