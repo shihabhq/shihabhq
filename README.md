@@ -56,17 +56,4 @@
 </a>
 </div>
 
-<br/>
-
-// ## GitHub Stats
-
-// <div align='center' style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-//   <img src="https://github-readme-stats.vercel.app/api?username=shihabhq&show_icons=true" alt="GitHub Stats" height="150px">
-//   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihabhq&layout=compact" alt="Top Languages" height="150px">
-// </div>
-
-// <div align='center'>
-//  <img src="https://streak-stats.demolab.com?user=shihabhq" alt="GitHub Streak" height="150px" />
-// </div>
-
 <br>
