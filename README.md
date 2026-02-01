@@ -1,18 +1,18 @@
 <div align="center">
-<img src="./me.png" align="center" style="width: 100%" />
+<img src="./myself.png" align="center" style="width: 100%" />
 </div>
 
 ## About Me
 
-#### <div>I'm a Frontend developer with a solid understanding in backend. I love to build user-friendly, scalable web applications using modern web technologies and I enjoy turning ideas into functional apps. I am constantly learning and My goal is to contribute to impactful projects that create value and solve complex problems. </div>
+#### <div>I'm a Web and Mobile application developer specializing in the frontend with a solid understanding in backend. I have experience in working with large scale projects. I contributed to Not just business projects but also government projects as well. I am constantly learning and My goal is to contribute to impactful projects that create value and solve complex problems. </div>
 
-- ✨ I love to learn new things and collaborate with other developers
+- I love to learn new things and collaborate with other developers
 
-- 💬 Ask me about anything related to Javascript/Typescript or React/Express
+- I am highly interested in cloud and linux servers
 
-- 🔗 Get to know me more in [my website](https://www.shihabhaque.netlify.app)
+- Get to know me more in [my website](https://shihab.live)
 
-- 👨‍💻 I’m currently working on a cool Startup Project!
+- I’m currently working on a cool Startup Project!
 
 <br/>
 
@@ -25,15 +25,18 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-45b8d8?style=for-the-badge&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 <br/>
 
 ## Connect with me
@@ -42,7 +45,7 @@
 <a href="https://github.com/shihabhq" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/adnansdev" target="_blank">
+<a href="https://twitter.com/shihab_hq" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/shihabhq/" target="_blank">
@@ -50,9 +53,6 @@
 </a>
 <a href="https://dev.to/shihabhaque" target="_blank">
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" style="margin-bottom: 5px;" />
-</a>
-<a href="https://codepen.io/Adnan-Saim" target="_blank">
-<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>
 </div>
 
