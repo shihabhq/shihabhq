@@ -4,7 +4,7 @@
 
 ## About Me
 
-#### <div>I'm a Web and Mobile application developer specializing in the frontend with a solid understanding in backend. I have experience in working with large scale projects. I contributed to Not just business projects but also government projects as well. I am constantly learning and My goal is to contribute to impactful projects that create value and solve complex problems. </div>
+#### <div>I'm a Full Stack application developer specializing in the frontend with a solid understanding in backend. I have experience in working with large scale projects. I contributed to Not just business projects but also government projects as well. I am constantly learning and My goal is to contribute to impactful projects that create value and solve complex problems. </div>
 
 - I love to learn new things and collaborate with other developers
 
@@ -12,7 +12,7 @@
 
 - Get to know me more in [my website](https://shihab.live)
 
-- I’m currently working on a cool Startup Project!
+- I’m currently Building AI Agents using RAG!
 
 <br/>
 
